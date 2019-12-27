@@ -48,7 +48,7 @@ COLLECTOR_URL = {
 }
 
 RENAME_TITLES = {
-    'tuinafval': 'gft',
+    'gft': 'tuinafval',
     'p-k': 'papier',
     'rest': 'restafval',
     'grof huisvuil': 'grofafval',
